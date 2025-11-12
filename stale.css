@@ -7,6 +7,9 @@ header {
   background-color: #f8b400;
   color: white;
   height: 1oopx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 header h1 {
@@ -14,9 +17,7 @@ header h1 {
   font-size: 50px;
 }
 
-div h1 {
-  margin-top: 10px;
-}
+
 
 h1 {  
   margin-bottom: 20px;
