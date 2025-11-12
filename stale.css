@@ -6,10 +6,10 @@
 header {
   background-color: #f8b400;
   color: white;
-  height: 1oopx;
+  height: 1opx;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: c;
 }
 
 header h1 {
