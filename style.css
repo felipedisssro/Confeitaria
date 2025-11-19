@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Nunito Sans", sans-serif;
+  font-family: 'Google Sans Code' sans-serif;
 }
 
 header {
@@ -38,8 +38,9 @@ img {
   object-fit: cover;
 }
 
+/*Exemplo com classe no css*/
 .sobre-nos {
-  width: 80%;
+  width: 95%;
   text-align: center;
   padding: 20px;
 }
